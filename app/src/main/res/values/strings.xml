@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Se você fizer o que você sempre fez, você terá o que sempre conseguiu.</string>
+    <string name="affirmation2">Ao olharmos para o próximo século, os líderes serão aqueles que capacitarão os outros.</string>
+    <string name="affirmation3">É possível mudar nossas vidas e a atitude daqueles que nos cercam simplesmente mudando a nós mesmos.</string>
+    <string name="affirmation4">Não é possível ser bom pela metade.</string>
+    <string name="affirmation5">Quer você acredite que consiga fazer uma coisa ou não, você está certo.</string>
+    <string name="affirmation6">Para obter êxito no mundo temos de parecer loucos mas sermos espertos.</string>
+    <string name="affirmation7">Não deixe o que você não pode fazer interferir com o que você pode fazer.</string>
+    <string name="affirmation8">As pessoas não carecem de força, carecem de determinação.</string>
+    <string name="affirmation9">Dois homens não podem passar meia hora juntos sem que um conquiste uma evidente superioridade em relação ao outro.</string>
+    <string name="affirmation10">Para que resulte o possível deve ser tentado o impossível.</string>
+</resources>
